@@ -1,0 +1,4 @@
+site_name: Tuntitehtava - GitActions
+site_url: https://tjvirta.github.io/OTMI24SP-JoLi-GitActions/
+theme:
+  name: material
